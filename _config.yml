@@ -2,64 +2,19 @@ url: https://ccliao101.github.io
 baseurl: /harunohana
 
 # Site settings
-title: Awesome Title
+title: Harunohana
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Harunohana is a Japanese-style izakaya that specializes in charcoal-grilled skewers. Located in Puli, Nantou County, Taiwan."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 阿德
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: 老闆 廚師
+  description: 擁有超過十年的烤台經驗，對食物的處理一絲不苟，確保每道菜色都能展現最佳風味。出餐時必須嚴格遵守品質和品味的標準，讓每位顧客都能享受到無可挑剔的美食體驗。
 
-- name: Larry Parker
+- name: 小鹿
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+  position: 店長 經理
+  description: 擁有超過十年的經營管理經驗，始終堅持以家人般的親切態度對待每位顧客，讓他們感受到溫暖。訓練員工以認真的態度和圓融的處事方式，確保服務品質一貫出色，贏得顧客的信賴。

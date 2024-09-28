@@ -266,15 +266,15 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: contain;
     -o-background-size: cover;
 }
 
@@ -364,6 +364,9 @@ section h3.section-subheading {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 16px;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -633,7 +636,6 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -864,4 +866,61 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+
+.original-image {
+    height: 500px;
+    overflow: hidden;
+}
+
+.original-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.pt-50 {
+    padding-top: 50px;
+}
+
+.ta-center {
+    text-align: center;
+}
+
+.ts-black {
+    text-shadow: 2px 2px 4px black;
+}
+
+.va-middle {
+    vertical-align: middle;
+}
+
+.fn-xxlarge {
+    font-size: xx-large;
+}
+
+.fn-xlarge {
+    font-size: x-large;
+}
+
+.fn-italic {
+    font-style: italic;
+}
+
+.fn-bold {
+    font-weight: bold;
+}
+
+.color-white {
+    color: white;
+}
+
+.color-orange {
+    color: rgba(254,209,54,.9);
+}
+
+.bg-color-fb {
+    background-color: #4267B2;
 }
