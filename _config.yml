@@ -1,9 +1,9 @@
-url: https://ccliao101.github.io
-baseurl: /springhana
+url: springhana.site
+baseurl:
 
 # Site settings
-title: SpringHana
-description: "SpringHana is a Japanese-style izakaya that specializes in charcoal-grilled skewers. Located in Puli, Nantou County, Taiwan. 南投縣埔里鎮的日式炭火串燒餐廳"
+title: 春花 SpringHana
+description: "SpringHana is a Japanese-style izakaya that specializes in charcoal-grilled skewers. Located in Puli, Nantou County, Taiwan. 南投縣埔里鎮的日式炭火串燒餐廳 春花 SpringHana"
 
 
 # Team names, titles and social links
