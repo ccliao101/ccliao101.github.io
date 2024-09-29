@@ -270,11 +270,11 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center;
-    background-repeat: repeat;
+    background-position: bottom;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: contain;
+    /* background-size: contain; */
     -o-background-size: cover;
 }
 
@@ -889,6 +889,10 @@ body {
     text-align: center;
 }
 
+.ta-right {
+    text-align: right;
+}
+
 .ts-black {
     text-shadow: 2px 2px 4px black;
 }
@@ -903,6 +907,10 @@ body {
 
 .fn-xlarge {
     font-size: x-large;
+}
+
+.fn-large {
+    font-size: large;
 }
 
 .fn-italic {
@@ -923,4 +931,12 @@ body {
 
 .bg-color-fb {
     background-color: #4267B2;
+}
+
+.bg-color-ig {
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
+.bg-color-ig:hover {
+    background: rgba(254,209,54,.9);
 }

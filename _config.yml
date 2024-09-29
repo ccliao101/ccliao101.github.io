@@ -1,10 +1,9 @@
 url: https://ccliao101.github.io
-baseurl: /harunohana
+baseurl: /springhana
 
 # Site settings
-title: Harunohana
-email: your-email@domain.com
-description: "Harunohana is a Japanese-style izakaya that specializes in charcoal-grilled skewers. Located in Puli, Nantou County, Taiwan."
+title: SpringHana
+description: "SpringHana is a Japanese-style izakaya that specializes in charcoal-grilled skewers. Located in Puli, Nantou County, Taiwan. 南投縣埔里鎮的日式炭火串燒餐廳"
 
 
 # Team names, titles and social links
@@ -18,3 +17,8 @@ people:
   pic: 2
   position: 店長 經理
   description: 擁有超過十年的經營管理經驗，始終堅持以家人般的親切態度對待每位顧客，讓他們感受到溫暖。訓練員工以認真的態度和圓融的處事方式，確保服務品質一貫出色，贏得顧客的信賴。
+
+- name: 阿魯咪
+  pic: 3
+  position: 保全 面試官
+  description: 曾在街頭遊蕩了幾年，過著孤獨的日子。某天，牠決定回頭，加入了這家餐廳，成為保全。牠用敏銳的嗅覺和勇敢的心，守護著每一位顧客和美食。阿魯咪不再孤單，找到了自己的新使命和溫暖的家。
